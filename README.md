@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/Abhi999k/Abhi999k/ded4fc8f2371afce0fe03190d01edb0d7304569a/banner.gif" alt="Animated Banner" width="100%" height="auto" />
 
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/abhishek-kaushik-b677a2260" target="_blank">ABHISHEK KAUSHIK</a>
-  <img src= "https://github.com/Abhi999k/Abhi999k/blob/cfbe67abd5409aad4ce859a30e5e6d6501d5555d/giphy.gif" alt="Emoji" width="42px"></h1>
+  <img src= "https://github.com/Abhi999k/Abhi999k/blob/cfbe67abd5409aad4ce859a30e5e6d6501d5555d/giphy.gif" alt="Emoji" width="42px">
+  </h1><img width="38%" align="right" src="Header.gif" >
+
 <h3 align="center">A dedicated student with Software development & Cybersecurity skills</h3>
 
 # 💫 About Me:
