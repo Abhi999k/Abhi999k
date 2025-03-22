@@ -1,6 +1,6 @@
 <img width="100%" src="banner.gif" >
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/abhishek-kaushik-b677a2260" target="_blank">ABHISHEK KAUSHIK</a>
-<img src= "https://github.com/Abhi999k/Abhi999k/blob/cfbe67abd5409aad4ce859a30e5e6d6501d5555d/giphy.gif" alt="Emoji" width="42px">
+<img src="giphy.gif" alt="Emoji" width="42px">
   
 <h3 align="center">A dedicated student with Software development & Cybersecurity skills</h3>
 
@@ -72,12 +72,21 @@ I have learned & explored various Domains few of them are as follows, <b>'Full s
 <a href="https://www.facebook.com/Abhishek.Kaushik0" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/rangbaaz_abhishek__/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 
+<br><img src="https://github-profile-trophy.vercel.app/?username=Abhi999k&theme=nord&no-frame=false&no-bg=true&margin-w=4"/></br></br>
 
+<table>
+<tr>
+    <td><img src="https://github-contributor-stats.vercel.app/api?username=Abhi999k&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" style="width: 100%; height: 150px; object-fit: cover;"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi999k&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 100%; height: 150px; object-fit: cover;"/></td>
+</tr>
+</table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhi999k&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhi999k&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi999k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+<tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Abhi999k&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" style="width: 100%; height: 150px; object-fit: cover;"/></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Abhi999k&theme=ambient_gradient&hide_border=false" style="width: 100%; height: 150px; object-fit: cover;"/></td>
+</tr>
+</table>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhi999k&theme=radical&no-frame=false&no-bg=true&margin).
+<a href="https://github.com/Abhi999k?tab=followers"><img src="https://img.shields.io/github/followers/Abhi999k?label=Followers&style=social" alt="GitHub Badge" align="center"></a>
+
