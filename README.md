@@ -89,5 +89,7 @@ I have learned & explored various Domains few of them are as follows, <b>'Full s
 </table>
 
 <a href="https://github.com/Abhi999k?tab=followers"><img src="https://img.shields.io/github/followers/Abhi999k?label=Followers&style=social" alt="GitHub Badge" align="center"></a>
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+
+<br>[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
