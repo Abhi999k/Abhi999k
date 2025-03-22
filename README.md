@@ -1,22 +1,25 @@
 <img width="100%" src="banner.gif" >
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/abhishek-kaushik-b677a2260" target="_blank">ABHISHEK KAUSHIK</a>
-  <img src= "https://github.com/Abhi999k/Abhi999k/blob/cfbe67abd5409aad4ce859a30e5e6d6501d5555d/giphy.gif" alt="Emoji" width="42px">
-
-  <h3 align="center">A dedicated student with Software development & Cybersecurity skills</h3>
+<img src= "https://github.com/Abhi999k/Abhi999k/blob/cfbe67abd5409aad4ce859a30e5e6d6501d5555d/giphy.gif" alt="Emoji" width="42px">
+  
+<h3 align="center">A dedicated student with Software development & Cybersecurity skills</h3>
 
 
 # 💫 About Me:
-<img width="38%" align="right" src="Header.gif" >
-Hello , pleased to meet you Viewer !<br>
-I have gained hands-on expertise in building secure applications, managing IoT systems, and implementing cybersecurity measures.
-<br>I have worked on penetration testing, vulnerability assessments, cryptography, and secure coding practices. Additionally, I have managed IoT projects involving embedded systems, 
-sensor networks, and cloud integration, ensuring both functionality and security.<br>With a strong passion for innovation, I actively work on real-world projects and collaborate with others to develop efficient,
-scalable, and secure solutions. My goal is to bridge the gap between development, security, and IoT to create impactful technology solutions."🚀
+<br><img width="40%" align="right" src="Header.gif" >
+<b>Hello </b> , pleased to meet you Viewer !
+<br><br>I have gained hands-on expertise in building secure applications, managing IoT systems, and implementing cybersecurity measures, worked on penetration testing, vulnerability assessments, cryptography, and secure coding practices. 
+<br><br>Additionally, I have managed IoT projects involving embedded systems,sensor networks, and cloud integration, ensuring both functionality and security.
+With a strong passion for innovation,
+<br>I actively work on real-world projects and collaborate with others to develop efficient, scalable, and secure solutions.My goal is to bridge the gap between development, security, and IoT to create impactful technology solutions."🚀
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abhishek.Kaushik0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rangbaaz_abhishek__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kaushik-b677a2260) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhishek_9900) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panditak095@gmail.com) 
+<br><br><h2><p align="center"><img src="https://komarev.com/ghpvc/?username=Abhi999k&label=Profile%20views&color=6805D3&style=flat" /></p></h2>
 
-# 💻 Tech Stack:
+
+<div align="center"><h1>Tech Skills 💻</h1>
+   
+I have learned & explored various Domains few of them are as follows, <b>'Full stack web-development'</b>, <b>'Data analysis</b>', <b>'Cyber encryption'</b> and all the latest python frameworks [OpenCV, MediaPipe] and many more productivity tools.I have Worked on various Projects related to Artifical Intelligence,IOT,Augumented Reality etc,Adiitionally, I am certified by multiple plateforms.
+<br><br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
@@ -58,7 +61,18 @@ scalable, and secure solutions. My goal is to bridge the gap between development
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) 
+
+
+<br/><h1 align="center">Let's Get Connected🤝</h1>
+
+<a href="https://www.linkedin.com/in/abhishek-kaushik-b677a2260/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.x.com/Abhishek_9900" target="_blank"><img alt="x" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:panditak095@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/Abhishek.Kaushik0" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/rangbaaz_abhishek__/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abhi999k&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -66,6 +80,4 @@ scalable, and secure solutions. My goal is to bridge the gap between development
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi999k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhi999k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
----
-[![](https://visitcount.itsvg.in/api?id=Abhi999k&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=Abhi999k&theme=radical&no-frame=false&no-bg=true&margin).
