@@ -13,7 +13,7 @@
 With a strong passion for innovation,
 <br>I actively work on real-world projects and collaborate with others to develop efficient, scalable, and secure solutions.My goal is to bridge the gap between development, security, and IoT to create impactful technology solutions."🚀
 
-<br><br><h2><p align="center"><img src="https://komarev.com/ghpvc/?username=Abhi999k&label=Profile%20views&color=6805D3&style=flat" /></p></h2>
+<br><h2><p align="center"><img src="https://komarev.com/ghpvc/?username=Abhi999k&label=Profile%20views&color=6805D3&style=flat" /></p></h2>
 
 
 <div align="center"><h1>Tech Skills 💻</h1>
@@ -72,7 +72,7 @@ I have learned & explored various Domains few of them are as follows, <b>'Full s
 <a href="https://www.facebook.com/Abhishek.Kaushik0" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/rangbaaz_abhishek__/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 
-<br><img src="https://github-profile-trophy.vercel.app/?username=Abhi999k&theme=nord&no-frame=false&no-bg=true&margin-w=4"/></br></br>
+<br><img src="https://github-profile-trophy.vercel.app/?username=Abhi999k&theme=nord&no-frame=false&no-bg=true&margin-w=4"/></br>
 
 <table>
 <tr>
