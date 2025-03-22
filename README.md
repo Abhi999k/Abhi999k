@@ -1,12 +1,12 @@
 <img width="100%" src="banner.gif" >
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/abhishek-kaushik-b677a2260" target="_blank">ABHISHEK KAUSHIK</a>
-<img src="giphy.gif" alt="Emoji" width="42px">
+<img src="wave.gif" alt="Emoji" width="42px">
   
 <h3 align="center">A dedicated student with Software development & Cybersecurity skills</h3>
 
 
 # 💫 About Me:
-<br><img width="40%" align="right" src="Header.gif" >
+<br><img width="40%" align="right" src="header.gif" >
 <b>Hello </b> , pleased to meet you Viewer !
 <br><br>I have gained hands-on expertise in building secure applications, managing IoT systems, and implementing cybersecurity measures, worked on penetration testing, vulnerability assessments, cryptography, and secure coding practices. 
 <br><br>Additionally, I have managed IoT projects involving embedded systems,sensor networks, and cloud integration, ensuring both functionality and security.
