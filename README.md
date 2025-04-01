@@ -1,5 +1,5 @@
 <img width="100%" src="Assets/banner.gif" >
-<h1 align="center">Hi, I'm <a href="https://abhishekme00.netlify.app/" target="_blank">ABHISHEK KAUSHIK</a>
+<h1 align="center">Hi, I'm <a href="https://abhishekme00.netlify.app" target="_blank">ABHISHEK KAUSHIK</a>
 <img src="Assets/wave.gif" alt="Emoji" width="42px">
   
 <h3 align="center">A dedicated student with Software development & Cybersecurity skills</h3>
