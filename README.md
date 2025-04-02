@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://abhishekme00.netlify.app" target="_blank">ABHISHEK KAUSHIK</a>
 <img src="Assets/wave.gif" alt="Emoji" width="42px">
   
-<h3 align="center">A dedicated student with Software development & Cybersecurity skills</h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/abhishek-kaushik-b677a2260">A dedicated student with Software development & Cybersecurity skills</h3>
 
 
 # 💫 About Me:
@@ -13,7 +13,8 @@
 With a strong passion for innovation,
 <br>I actively work on real-world projects and collaborate with others to develop efficient, scalable, and secure solutions.My goal is to bridge the gap between development, security, and IoT to create impactful technology solutions."🚀
 
-<br><h2><p align="center"><img src="https://komarev.com/ghpvc/?username=Abhi999k&label=Profile%20views&color=6805D3&style=flat" /></p></h2>
+<br><p align="center"><a href="https://abhishekme00.netlify.app/"><img src="https://img.shields.io/badge/View%20My%20Portfolio-%2300A1D6?style=for-the-badge" alt="View My Portfolio"></a></p>
+<h2><p align="center"><img src="https://komarev.com/ghpvc/?username=Abhi999k&label=Profile%20views&color=6805D3&style=flat" /></p></h2>
 
 
 <div align="center"><h1>Tech Skills 💻</h1>
