@@ -78,15 +78,15 @@ I have learned & explored various Domains few of them are as follows, <b>'Full s
 
 <table>
 <tr>
-    <td><img src="https://github-contributor-stats.vercel.app/api?username=Abhi999k&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&v=1" style="width: 100%; height: 150px; object-fit: cover;"/></td>
+    <td><img src="https://github-contributor-stats.vercel.app/api?username=Abhi999k&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&v=0" style="width: 100%; height: 150px; object-fit: cover;"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi999k&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=0" style="width: 100%; height: 150px; object-fit: cover;"/></td>
 </tr>
 </table>
 
 <table>
 <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Abhi999k&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&v=1" style="width: 100%; height: 150px; object-fit: cover;"/></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Abhi999k&theme=ambient_gradient&hide_border=false&v=1" style="width: 100%; height: 150px; object-fit: cover;"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Abhi999k&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&v=0" style="width: 100%; height: 150px; object-fit: cover;"/></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Abhi999k&theme=ambient_gradient&hide_border=false&v=0" style="width: 100%; height: 150px; object-fit: cover;"/></td>
 </tr>
 </table>
 
