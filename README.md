@@ -68,12 +68,18 @@ I have learned & explored various Domains few of them are as follows, <b>'Full s
 <br/><h1 align="center">Let's Get Connected🤝</h1>
 
 <a href="https://www.linkedin.com/in/abhishek-kaushik-b677a2260/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.x.com/Abhishek_9900" target="_blank"><img alt="x" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:panditak095@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/the_abhishek9900)
+<a href="https://www.x.com/Abhishek_9900" target="_blank"><img alt="x" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/the-abhishek/)
+[![Credly](https://img.shields.io/badge/Credly-%23FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/your-username)<br>
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/39f000e2-8c78-43be-93f8-c036b2e6dfd5)
 <a href="https://www.facebook.com/Abhishek.Kaushik0" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/rangbaaz_abhishek__/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 <a href="https://wa.me/917017212992?text=Hello%2C%20I%20want%20to%20connect%20with%20you!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
+
+ 
 <br><img src="https://github-profile-trophy.vercel.app/?username=Abhi999k&theme=nord&no-frame=false&no-bg=true&margin-w=4"/></br>
 
 <table>
