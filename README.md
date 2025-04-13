@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://abhishekme00.netlify.app" target="_blank">ABHISHEK KAUSHIK</a>
 <img src="Assets/wave.gif" alt="Emoji" width="42px">
   
-<h3 align="center"><a href="https://www.linkedin.com/in/abhishek-kaushik-b677a2260">A dedicated student with Software development & Cybersecurity skills</h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/abhishek-kaushik-me">A dedicated student with Software development & Cybersecurity skills</h3>
 
 
 # 💫 About Me:
@@ -67,10 +67,11 @@ I have learned & explored various Domains few of them are as follows, <b>'Full s
 
 <br/><h1 align="center">Let's Get Connected🤝</h1>
 
-<a href="https://www.linkedin.com/in/abhishek-kaushik-b677a2260/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhishek-kaushik-me" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:panditak095@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/the_abhishek9900)
 <a href="https://www.x.com/Abhishek_9900" target="_blank"><img alt="x" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+[![GFG](https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/the_abhishek_kaushik/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/the-abhishek/)
 [![Credly](https://img.shields.io/badge/Credly-%23FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/your-username)<br>
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/39f000e2-8c78-43be-93f8-c036b2e6dfd5)
