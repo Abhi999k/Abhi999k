@@ -80,20 +80,19 @@ I have learned & explored various Domains few of them are as follows, <b>'Full s
 <a href="https://wa.me/917017212992?text=Hello%2C%20I%20want%20to%20connect%20with%20you!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 
- 
-<br><img src="https://github-profile-trophy.vercel.app/?username=Abhi999k&theme=nord&no-frame=false&no-bg=true&margin-w=4"/></br>
+ <br><img src="https://github-profile-trophy.vercel.app/?username=Abhi999k&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy"></br>
 
 <table>
 <tr>
-    <td><img src="https://github-contributor-stats.vercel.app/api?username=Abhi999k&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&v=0" style="width: 100%; height: 150px; object-fit: cover;"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi999k&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=0" style="width: 100%; height: 150px; object-fit: cover;"/></td>
+    <td><img src="https://github-contributor-stats.vercel.app/api?username=Abhi999k&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&v=0" style="width: 100%; height: 150px; object-fit: cover;" alt="Contributor Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi999k&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=0" style="width: 100%; height: 150px; object-fit: cover;" alt="Top Languages"/></td>
 </tr>
 </table>
 
 <table>
 <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Abhi999k&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&v=0" style="width: 100%; height: 150px; object-fit: cover;"/></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Abhi999k&theme=ambient_gradient&hide_border=false&v=0" style="width: 100%; height: 150px; object-fit: cover;"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Abhi999k&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&v=0" style="width: 100%; height: 150px; object-fit: cover;" alt="GitHub Stats"/></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Abhi999k&theme=ambient_gradient&hide_border=false&v=0" style="width: 100%; height: 150px; object-fit: cover;" alt="Streak Stats"/></td>
 </tr>
 </table>
 
